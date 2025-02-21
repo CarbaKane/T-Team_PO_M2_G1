@@ -18,3 +18,15 @@ o	Implémentation des services HTTP
 o	Développement des formulaires
 o	Gestion de l'authentification côté client
 o	Intégration des interfaces utilisateur
+
+
+
+Administrateur:
+Plan d'Action
+Créer les entités JPA pour correspondre aux tables MySQL.
+Créer les repositories JPA pour interagir avec la base de données.
+Développer les services métier pour encapsuler la logique métier.
+Créer les contrôleurs REST pour exposer les fonctionnalités à Angular.
+Tester les API avec Postman.
+Ajouter les fonctionnalités de gestion des recrutements.
+Implémenter l’authentification avec un rôle ADMIN.
