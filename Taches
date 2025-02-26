@@ -1,0 +1,32 @@
+Les différentes taches à s'éxécuter:
+
+Plan de développement OK
+1.⁠ ⁠Configuration initiale du projet OK
+o	Création du projet Spring Boot (backend) OK
+o	Création du projet Angular (frontend)
+o	Configuration de la base de données MySQL OK
+2.⁠ ⁠Développement du backend
+o	Implémentation des modèles/entités
+o	Création des repositories
+o	Développement des services métier
+o	Implémentation des contrôleurs REST
+o	Mise en place de la sécurité (JWT)
+o	Configuration du service d'envoi d'emails
+3.⁠ ⁠Développement du frontend
+o	Création des composants Angular
+o	Implémentation des services HTTP
+o	Développement des formulaires
+o	Gestion de l'authentification côté client
+o	Intégration des interfaces utilisateur
+
+
+
+Administrateur:
+Plan d'Action
+Créer les entités JPA pour correspondre aux tables MySQL.
+Créer les repositories JPA pour interagir avec la base de données.
+Développer les services métier pour encapsuler la logique métier.
+Créer les contrôleurs REST pour exposer les fonctionnalités à Angular.
+Tester les API avec Postman.
+Ajouter les fonctionnalités de gestion des recrutements.
+Implémenter l’authentification avec un rôle ADMIN.
